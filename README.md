@@ -12,3 +12,8 @@ Tecnologías utilizadas
 - CSS
 - BEM
 
+---
+
+Realizado por
+
+- Israel de León
