@@ -13,8 +13,7 @@
 Tecnologías utilizadas
 
 - HTML
-- CSS
-- BEM
+- CSS Y BEM
 
 ---
 
