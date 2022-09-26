@@ -4,7 +4,7 @@
 
 # Observación
 
-- Aún se tiene que realizar responsive
+- Aún falta realizar el responsive
 
 
 ---
