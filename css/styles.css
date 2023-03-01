@@ -29,6 +29,7 @@ body{
 
 .hero__img{
     width: 100%;
+    object-fit: cover;
 }
 .hero__img:hover{
     border: 2px solid #fff;
@@ -50,7 +51,7 @@ body{
     color: #fff;
     text-decoration: none;
     color: #9C8977;
-    border: 1px solid #9C8977;
+    border: 3px solid #9C8977;
     width: 200px;
     height: 50px;
     display: flex;
@@ -59,4 +60,16 @@ body{
 }
 .hero__cta:hover{
     color: #fff;
+    background-color: #9C8977;
+    border: 2px solid;
+}
+
+@media (max-width: 768px) {
+    .hero__boxs{
+        display: flex;
+        flex-direction: column;
+    }
+    .header__img{
+        max-width: 100%;
+    }
 }
