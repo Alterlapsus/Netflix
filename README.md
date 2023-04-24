@@ -4,7 +4,6 @@
 
 ---
 
-
 Tecnologías utilizadas
 
 - HTML
