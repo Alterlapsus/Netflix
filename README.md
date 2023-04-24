@@ -2,11 +2,6 @@
 
 - Se crea página de Netflix administración de usuarios
 
-# Observación
-
-- Aún falta realizar el responsive
-
-
 ---
 
 
